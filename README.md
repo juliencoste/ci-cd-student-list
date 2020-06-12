@@ -1,6 +1,6 @@
 # BADGE
 
-[![Build Status](http://3.236.56.62/buildStatus/icon?job=student-list)](http://3.236.56.62/job/student-list/)
+[![Build Status](http://ec2-54-146-71-1.compute-1.amazonaws.com/buildStatus/icon?job=student-list)](http://ec2-54-146-71-1.compute-1.amazonaws.com/job/student-list/)
 
 ## Description
 
